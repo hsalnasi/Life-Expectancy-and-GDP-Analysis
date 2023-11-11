@@ -6,7 +6,6 @@ This project will examine whether a relationship exists between the GDP of six c
 
 #### *You can Accsess The [Notebook](life_expectancy_gdp.ipynb)*   for full insight on the project.
 
----
 
 
 
