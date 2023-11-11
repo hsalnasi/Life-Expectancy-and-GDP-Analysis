@@ -2,7 +2,7 @@
 # Analyzing the Interplay between GDP and Life Expectancy
 
 This project will examine whether a relationship exists between the GDP of six countries and the life expectancy of their populations.
-![]('visual.png')
+![_]('visual.png')
 
 #### *You can Accsess The [Notebook](life_expectancy_gdp.ipynb)*   for full insight on the project.
 
