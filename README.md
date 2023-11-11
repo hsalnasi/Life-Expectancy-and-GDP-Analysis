@@ -30,7 +30,7 @@ The goals are to **prepare data**, **EDA** with ploting, and **share findings** 
 #### Tech used for This project:
 - Loading and cleaning data , EDA:
     - `csv` 
-    - `pandas`  ![]('pandas_logo.svg')
+    - `pandas`  ![]('pandas_logo.svg.png')
     - `Scipy`  
 
 - Visualizing the Data:
