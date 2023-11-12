@@ -1,5 +1,5 @@
 
-# Analyzing the Interplay between GDP and Life Expectancy
+[]('https://github.com/hsalnasi/Life-Expectancy-and-GDP-Analysis/blob/main/single_area_chart.png') # Analyzing the Interplay between GDP and Life Expectancy
 
 This project will examine whether a relationship exists between the GDP of six countries and the life expectancy of their populations. 
 
