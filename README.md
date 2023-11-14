@@ -1,11 +1,9 @@
 <h1>
-  <img src="chart.svg" alt="Bar Chart Icon" width="20" height="20" style="vertical-align: text-bottom; margin-right: 10px;" />
+  <img src="icons/chart.svg" alt="Bar Chart Icon" width="20" height="20" style="vertical-align: text-bottom; margin-right: 10px;" />
   Analyzing the Interplay between GDP and Life Expectancy 
 </h1>
-
-
 <h2 <p align='center'</p>🔍The Welther, the better?</h2>
-<br></br>
+
 <p align="center">
   <img src="icons/visual.png" alt="mulitble scatter plots">
 </p>
