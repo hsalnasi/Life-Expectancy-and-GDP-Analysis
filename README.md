@@ -7,7 +7,7 @@
 <h2 <p align='center'</p>🔍The Welther, the better?</h2>
 <br></br>
 <p align="center">
-  <img src="https://github.com/hsalnasi/Life-Expectancy-and-GDP-Analysis/blob/main/visual.png" alt="mulitble scatter plots">
+  <img src="icons/visual.png" alt="mulitble scatter plots">
 </p>
 
 #### 🔴*You can Accsess The [Notebook](life_expectancy_gdp.ipynb)*   for full insight on the project.
