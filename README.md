@@ -2,8 +2,10 @@
   <img src="chart.svg" alt="Bar Chart Icon" width="20" height="20" style="vertical-align: text-bottom; margin-right: 10px;" />
   Analyzing the Interplay between GDP and Life Expectancy 
 </h1>
-This project will examine whether a relationship exists between the GDP of six countries and the life expectancy of their populations. 
-<br> </br>
+
+
+<h2 <p align='center'</p>🔍The Welther, the better?</h2>
+<br></br>
 <p align="center">
   <img src="https://github.com/hsalnasi/Life-Expectancy-and-GDP-Analysis/blob/main/visual.png" alt="mulitble scatter plots">
 </p>
@@ -13,6 +15,7 @@ This project will examine whether a relationship exists between the GDP of six c
   <img src="pen.svg" alt="pen Icon" width="20" height="20" style="vertical-align: text-bottom; margin-right: 10px;" />
   Introduction
 </h1>
+GDP, or Gross Domestic Product, is a measure of the total economic output of a country. It is also often linked to a nations devolepment
 This project aims to investigate the presence of a correlation between the Gross Domestic Product (GDP) of six countries and the life expectancy of their respective populations.
 
 The goals are to **prepare data**, **EDA** with ploting, and **share findings** and study the results.
@@ -35,13 +38,13 @@ The goals are to **prepare data**, **EDA** with ploting, and **share findings** 
 </h3>
 
 - Loading and cleaning data , EDA:
-    - `csv` 
+    - <img src='csv.svg' alt='CSV library svg ' width=70 height=30 style="vertical-align: text-bottom; margin-right: 6px;" />
     -  <img src='Pandas_logo.svg.png' alt='pandas svg ' width=70 height=30 style="vertical-align: text-bottom; margin-right: 9px;" />
-    - `Scipy`  
+    - `<img src='scipy_logo.png' alt='pandas svg ' width=70 height=30 style="vertical-align: text-bottom; margin-right: 9px;" />
 
 - Visualizing the Data:
-    - <img src='Matplotlib_icon.svg' alt='Matplotlib ' width=50 height=50 style="vertical-align: text-bottom; margin-right: 9px;" />
-    - <img src='seaborn_logo.svg' alt='pandas svg ' width=70 height=30 style="vertical-align: text-bottom; margin-right: 9px;" />
+    - <img src='Matplotlib_icon.svg' alt='Matplotlib icon svg ' width=40 height=40 style="vertical-align: text-bottom; margin-right: 9px;" />
+    - <img src='seaborn_logo.svg' alt='Seaborn icon svg ' width=70 height=30 style="vertical-align: text-bottom; margin-right: 9px;" />
 
 
 
