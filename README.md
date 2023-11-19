@@ -55,7 +55,8 @@ The goals are to **prepare data**, **EDA** with ploting, and **share findings** 
     - <img src='icons/seaborn_logo.svg' alt='Seaborn icon svg ' width=70 height=30 style="vertical-align: text-bottom; margin-right: 9px;" />
 
 # 🔬EDA 
-Given a CSV file [all_data.csv] The dataset woule be read and put into a Pandas Dataframe. Then, function as `pd.info()` and `pd.describe()` would be performed to inspect the data and look for any null values.
+Given a CSV file [all_data.csv] The dataset woule be read and put into a Pandas Dataframe. Then, function as `pd.info()` and `pd.describe()` would be performed to inspect the data and look for any null values. 
+
 ![image](https://github.com/hsalnasi/Life-Expectancy-and-GDP-Analysis/assets/89119185/b4122cc6-331a-45cc-a8c6-829e35ca3251)
 
 Some columns were renamed for better and more clear naming , and a couple of plots were graphed to answer our questions and to test the relationship between The GDP rates and The Life expectancy rates across the six nations.
