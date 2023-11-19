@@ -57,13 +57,15 @@ The goals are to **prepare data**, **EDA** with ploting, and **share findings** 
 # 🔬EDA 
 Given a CSV file [all_data.csv] The dataset woule be read and put into a Pandas Dataframe. Then, function as `pd.info()` and `pd.describe()` would be performed to inspect the data and look for any null values. 
 
-![image](https://github.com/hsalnasi/Life-Expectancy-and-GDP-Analysis/assets/89119185/b4122cc6-331a-45cc-a8c6-829e35ca3251)
+![image](https://github.com/hsalnasi/Life-Expectancy-and-GDP-Analysis/assets/89119185/beaa52b1-664b-4468-8364-8c96abb524f2)
+
 
 Some columns were renamed for better and more clear naming , and a couple of plots were graphed to answer our questions and to test the relationship between The GDP rates and The Life expectancy rates across the six nations.
 
-![image](https://github.com/hsalnasi/Life-Expectancy-and-GDP-Analysis/assets/89119185/777fcc76-9f73-49eb-a57c-c36646e3e11a)![image](https://github.com/hsalnasi/Life-Expectancy-and-GDP-Analysis/assets/89119185/6d91dcea-0857-4a0a-9b8b-b57909951e7b)
+![image](https://github.com/hsalnasi/Life-Expectancy-and-GDP-Analysis/assets/89119185/af2be4ba-83c6-4993-9d23-11c105f25f05)
 
-![image](https://github.com/hsalnasi/Life-Expectancy-and-GDP-Analysis/assets/89119185/e5aef60f-baab-4951-bf67-a081b7bc6e0b)![image](https://github.com/hsalnasi/Life-Expectancy-and-GDP-Analysis/assets/89119185/e2964327-21b8-4eaa-a908-dab2ec3a38ca)
+![image](https://github.com/hsalnasi/Life-Expectancy-and-GDP-Analysis/assets/89119185/b42acca7-0142-4f17-ae43-fa90e5ca38de)
+
 
 **🫡Please refer to the [Notebook](life_expectancy_gdp.ipynb) To view the project**
 # 🔗Findings and Conclusion
