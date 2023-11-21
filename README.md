@@ -55,7 +55,7 @@ The goals are to **prepare data**, **EDA** with ploting, and **share findings** 
     - <img src='icons/seaborn_logo.svg' alt='Seaborn icon svg ' width=70 height=30 style="vertical-align: text-bottom; margin-right: 9px;" />
 
 # 🔬EDA 
-Given a CSV file [all_data.csv] The dataset woule be read and put into a Pandas Dataframe. Then, function as `pd.info()` and `pd.describe()` would be performed to inspect the data and look for any null values. 
+Given a CSV file [all_data.csv]() The dataset woule be read and put into a Pandas Dataframe. Then, function as `pd.info()` and `pd.describe()` would be performed to inspect the data and look for any null values. 
 
 ![image](https://github.com/hsalnasi/Life-Expectancy-and-GDP-Analysis/assets/89119185/beaa52b1-664b-4468-8364-8c96abb524f2)
 
